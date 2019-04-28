@@ -1,0 +1,93 @@
+/* ..............................
+ Shubha Mandal
+
+.................................*/
+
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.clr{
+    clear: both;
+}
+.wrapper{
+    height: 900px;
+    width: 100%;
+    background-color: #7db91e;
+}
+/* header part css start  */
+.header{
+    height: 200px;
+    width: 100%;
+    background-color: #23edbe;
+    line-height: 200px;
+    text-align: center;
+    text-transform: uppercase;
+}
+/* header part css end  */
+
+/* menu part css start  */
+.menu{
+    height: 50px;
+    width: 100%;
+    background-color: #a641f0;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+/* menu part css end  */
+
+/* body part css start  */
+.body{
+    height: 550px;
+    width: 100%;
+}
+/* body part css end  */
+
+/* left-site part css start  */
+.left-site{
+     height: 550px;
+    width: 10%;
+    float: left;
+    background-color: deepskyblue;
+    text-align: center;
+    line-height: 200px;
+    text-transform: uppercase;
+}
+/* left-site part css end  */
+
+/* content part css start  */
+.content{
+    height: 550px;
+    width: 80%;
+    float: left;
+    background-color: #7db91e;
+    text-align: center;
+    line-height: 200px;
+    text-transform: uppercase;
+}
+/* content part css end  */
+
+/* right-site part css start  */
+.right-site{
+     height: 550px;
+    width: 10%;
+    float: right;
+    background-color: deepskyblue;
+    text-align: center;
+    line-height: 200px;
+    text-transform: uppercase;
+}
+/* right-site part css end  */
+
+/* footer part css start  */
+.footer{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: cornflowerblue;
+    padding-top: 15px;
+    
+}
+/* footer part css end  */
